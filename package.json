@@ -1,0 +1,23 @@
+{
+  "name": "@wha/prettier",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Whitehat Warriors",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitehat-Agency/prettier.git"
+  },
+  "keywords": [
+    "Prettier",
+    "Configuration"
+  ],
+  "author": "Channing Dev <channing@whitehatagency.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whitehat-Agency/prettier/issues"
+  },
+  "homepage": "https://github.com/Whitehat-Agency/prettier#readme"
+}
